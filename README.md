@@ -1,2 +1,2 @@
 # Materials
-Materials for different Certifications Cources
+Materials for different Certifications Courses
